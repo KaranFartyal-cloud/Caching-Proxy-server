@@ -4,6 +4,8 @@ A CLI tool that starts a caching proxy server. It forwards requests to a
 real origin server and caches the responses. Repeat requests are served
 straight from the cache instead of hitting the origin again.
 
+this project serves as a solution for https://roadmap.sh/projects/caching-server
+
 ## Table Of Content
 
 1. Install
